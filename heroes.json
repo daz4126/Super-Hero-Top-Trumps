@@ -1,5 +1,5 @@
 [
-{'name':'The Joker','strength':4,'intelligence':15,'powers':0},
+{"name":"The Joker","strength":4,"intelligence":15,"powers":0},
 {'name':'Superman','strength':9,'intelligence':11,'powers':100},
 {'name':'Batman','strength':6,'intelligence':17,'powers':0},
 {'name':'Wonder Woman','strength':8,'intelligence':16,'powers':90}
